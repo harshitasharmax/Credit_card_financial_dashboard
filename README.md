@@ -1,5 +1,6 @@
 # Credit_card_financial_dashboard
 Power BI Dashboard 
+
 This project has been a great learning journey, combining data analysis and visualization skills. Here’s a quick overview of the steps involved:
 
 1)	Data Wrangling: wrangled data from CSV files into a SQL database, then connected that database to Power BI for seamless data access.
